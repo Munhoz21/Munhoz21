@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lucas Munhoz!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lucas!
 
 #### 😀-I'm a 19 years old student, trying to be a good programmer!
 #### ✏-Now i'm studying JavaScript! But i pretend to learn more languages during the months!
