@@ -7,4 +7,4 @@
 
 ### You can find me on 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/lucas-munhoz-071705174)](www.linkedin.com/in/lucas-munhoz-071705174) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/lucas-munhoz-071705174/)](www.linkedin.com/in/lucas-munhoz-071705174/) 
