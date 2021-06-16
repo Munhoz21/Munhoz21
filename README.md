@@ -8,3 +8,6 @@
 ### You can find me on 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-munhoz-071705174/)](https://www.linkedin.com/in/lucas-munhoz-071705174/) 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasmunhoz2105@gmail)](mailto:lucasmunhoz2105@gmail.com)
+
