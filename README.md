@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lucas!
 
-#### 😀-I'm a 23 years old student, trying to be a great programmer!
+#### 😀-I'm a 24 years old student, trying to be a great programmer, work at Factorial as Marketing OPS currently!
 #### 🎉-I will put all my projects on GitHub repositories
 
 ### You can find me on 👇
